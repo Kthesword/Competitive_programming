@@ -11,9 +11,9 @@ class Solution:
                     matrix[row][col0] = 1
                     modcols.append(col0)
                 matrix[row] = [0]*len(matrix[row])
-        for i in range(len(modcols)):
+        for idx in modcols:
             for row in matrix:
-                row[modcols[i]] = 0
+                row[idx] = 0
 
 
             
