@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Kthesword/Competitive_programming/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
