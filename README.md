@@ -11,11 +11,13 @@
 | ------- |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
+| [2645-pass-the-pillow](https://github.com/Kthesword/Competitive_programming/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2645-pass-the-pillow](https://github.com/Kthesword/Competitive_programming/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
