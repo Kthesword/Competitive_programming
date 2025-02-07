@@ -6,6 +6,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
+| [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3651-transformed-array](https://github.com/Kthesword/Competitive_programming/tree/master/3651-transformed-array) |
@@ -19,6 +20,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -30,6 +32,7 @@
 | [0058-length-of-last-word](https://github.com/Kthesword/Competitive_programming/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
+| [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
