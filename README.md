@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3651-transformed-array](https://github.com/Kthesword/Competitive_programming/tree/master/3651-transformed-array) |
 ## Math
@@ -58,6 +59,7 @@
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 ## Matrix
 |  |
 | ------- |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
