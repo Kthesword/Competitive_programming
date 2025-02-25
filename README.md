@@ -44,6 +44,7 @@
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
 ## String Matching
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Kthesword/Competitive_programming/tree/master/0908-middle-of-the-linked-list) |
+| [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
 | ------- |
