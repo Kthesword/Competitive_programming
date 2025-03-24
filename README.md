@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -113,4 +114,12 @@
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
