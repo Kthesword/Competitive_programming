@@ -16,6 +16,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1876-map-of-highest-peak](https://github.com/Kthesword/Competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -87,6 +88,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
+| [1876-map-of-highest-peak](https://github.com/Kthesword/Competitive_programming/tree/master/1876-map-of-highest-peak) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
+| [1876-map-of-highest-peak](https://github.com/Kthesword/Competitive_programming/tree/master/1876-map-of-highest-peak) |
 ## Union Find
 |  |
 | ------- |
