@@ -21,6 +21,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Kthesword/Competitive_programming/tree/master/3651-transformed-array) |
 ## Math
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Kthesword/Competitive_programming/tree/master/0278-first-bad-version) |
+| [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
 ## Interactive
 |  |
 | ------- |
