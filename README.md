@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
+| [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Binary Search
 |  |
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
