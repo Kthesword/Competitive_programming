@@ -52,6 +52,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/Kthesword/Competitive_programming/tree/master/0058-length-of-last-word) |
+| [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -88,6 +89,7 @@
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
+| [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -144,6 +146,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kthesword/Competitive_programming/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Kthesword/Competitive_programming/tree/master/0371-sum-of-two-integers) |
@@ -202,5 +205,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
