@@ -1,6 +1,3 @@
-from typing import List
-from collections import defaultdict
-
 class Solution:
     def countCompleteSubarrays(self, nums: List[int]) -> int:
         total_unique = len(set(nums))
