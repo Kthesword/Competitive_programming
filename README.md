@@ -18,6 +18,7 @@
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kthesword/Competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
@@ -64,6 +65,7 @@
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -199,6 +201,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Divide and Conquer
 |  |
@@ -242,5 +245,6 @@
 ## Graph
 |  |
 | ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
