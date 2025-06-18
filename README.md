@@ -246,5 +246,6 @@
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
+| [1916-find-center-of-star-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1916-find-center-of-star-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
