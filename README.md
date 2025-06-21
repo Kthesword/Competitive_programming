@@ -29,6 +29,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Kthesword/Competitive_programming/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -43,6 +44,7 @@
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/Kthesword/Competitive_programming/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -169,6 +171,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Kthesword/Competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2509-minimize-xor](https://github.com/Kthesword/Competitive_programming/tree/master/2509-minimize-xor) |
+| [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
