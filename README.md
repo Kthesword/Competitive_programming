@@ -15,6 +15,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0260-single-number-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -41,6 +42,7 @@
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kthesword/Competitive_programming/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -89,6 +91,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -147,6 +150,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Stack
 |  |
@@ -226,6 +230,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
