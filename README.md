@@ -31,6 +31,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
+| [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Kthesword/Competitive_programming/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -128,6 +129,7 @@
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [2509-minimize-xor](https://github.com/Kthesword/Competitive_programming/tree/master/2509-minimize-xor) |
+| [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
@@ -222,6 +225,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
+| [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
 |  |
 | ------- |
