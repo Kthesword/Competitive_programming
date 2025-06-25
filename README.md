@@ -18,6 +18,7 @@
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
+| [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
@@ -44,6 +45,7 @@
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kthesword/Competitive_programming/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
+| [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -128,6 +130,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 ## Prefix Sum
@@ -220,16 +223,19 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,4 +270,8 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1916-find-center-of-star-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1916-find-center-of-star-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
