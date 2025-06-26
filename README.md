@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kthesword/Competitive_programming/tree/master/0058-length-of-last-word) |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
@@ -105,6 +107,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
