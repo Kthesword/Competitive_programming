@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Kthesword/Competitive_programming/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kthesword/Competitive_programming/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
@@ -69,6 +70,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Kthesword/Competitive_programming/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/Kthesword/Competitive_programming/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
