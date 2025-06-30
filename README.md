@@ -53,6 +53,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/Kthesword/Competitive_programming/tree/master/2645-pass-the-pillow) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Kthesword/Competitive_programming/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [2509-minimize-xor](https://github.com/Kthesword/Competitive_programming/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Kthesword/Competitive_programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
