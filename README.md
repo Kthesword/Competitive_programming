@@ -74,6 +74,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
@@ -154,6 +155,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [2509-minimize-xor](https://github.com/Kthesword/Competitive_programming/tree/master/2509-minimize-xor) |
@@ -167,6 +169,7 @@
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
@@ -280,4 +283,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
