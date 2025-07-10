@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
+| [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
@@ -206,6 +207,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kthesword/Competitive_programming/tree/master/0278-first-bad-version) |
 | [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
