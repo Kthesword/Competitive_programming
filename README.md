@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kthesword/Competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Kthesword/Competitive_programming/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
@@ -224,6 +225,7 @@
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -235,6 +237,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Breadth-First Search
 |  |
@@ -251,6 +254,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -325,4 +329,8 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Kthesword/Competitive_programming/tree/master/2413-smallest-number-in-infinite-set) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
