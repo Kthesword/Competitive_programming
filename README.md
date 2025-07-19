@@ -23,6 +23,7 @@
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
@@ -54,6 +55,7 @@
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kthesword/Competitive_programming/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -131,6 +133,7 @@
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -303,6 +306,7 @@
 ## Counting
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 ## Graph
 |  |
@@ -337,4 +341,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
