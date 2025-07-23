@@ -14,6 +14,7 @@
 | [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kthesword/Competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Kthesword/Competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kthesword/Competitive_programming/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
@@ -131,6 +132,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Kthesword/Competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
@@ -259,6 +261,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kthesword/Competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
