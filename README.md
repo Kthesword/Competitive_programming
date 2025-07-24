@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Kthesword/Competitive_programming/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Kthesword/Competitive_programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
@@ -53,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kthesword/Competitive_programming/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Kthesword/Competitive_programming/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
@@ -148,6 +150,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Kthesword/Competitive_programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
