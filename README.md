@@ -42,6 +42,7 @@
 | [1962-single-threaded-cpu](https://github.com/Kthesword/Competitive_programming/tree/master/1962-single-threaded-cpu) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2262-solving-questions-with-brainpower](https://github.com/Kthesword/Competitive_programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/Kthesword/Competitive_programming/tree/master/2846-robot-collisions) |
@@ -298,6 +299,7 @@
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2262-solving-questions-with-brainpower](https://github.com/Kthesword/Competitive_programming/tree/master/2262-solving-questions-with-brainpower) |
 ## Sliding Window
 |  |
 | ------- |
