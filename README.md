@@ -97,6 +97,7 @@
 | [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0800-letter-case-permutation](https://github.com/Kthesword/Competitive_programming/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
@@ -213,6 +214,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/Kthesword/Competitive_programming/tree/master/0800-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Kthesword/Competitive_programming/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Kthesword/Competitive_programming/tree/master/0461-hamming-distance) |
+| [0800-letter-case-permutation](https://github.com/Kthesword/Competitive_programming/tree/master/0800-letter-case-permutation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kthesword/Competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2509-minimize-xor](https://github.com/Kthesword/Competitive_programming/tree/master/2509-minimize-xor) |
