@@ -26,6 +26,7 @@
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
@@ -144,6 +145,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -159,6 +161,7 @@
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
+| [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1677-matrix-diagonal-sum](https://github.com/Kthesword/Competitive_programming/tree/master/1677-matrix-diagonal-sum) |
 | [1876-map-of-highest-peak](https://github.com/Kthesword/Competitive_programming/tree/master/1876-map-of-highest-peak) |
 ## Sorting
@@ -255,6 +258,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kthesword/Competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -265,6 +269,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
+| [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1876-map-of-highest-peak](https://github.com/Kthesword/Competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
@@ -272,6 +277,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kthesword/Competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
+| [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Divide and Conquer
