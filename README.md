@@ -25,6 +25,7 @@
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
@@ -118,6 +119,7 @@
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Kthesword/Competitive_programming/tree/master/0908-middle-of-the-linked-list) |
 | [1080-camelcase-matching](https://github.com/Kthesword/Competitive_programming/tree/master/1080-camelcase-matching) |
@@ -173,6 +175,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1962-single-threaded-cpu](https://github.com/Kthesword/Competitive_programming/tree/master/1962-single-threaded-cpu) |
@@ -242,6 +245,7 @@
 | [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kthesword/Competitive_programming/tree/master/0278-first-bad-version) |
+| [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
 ## Interactive
 |  |
@@ -293,6 +297,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/Kthesword/Competitive_programming/tree/master/1962-single-threaded-cpu) |
@@ -318,6 +323,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kthesword/Competitive_programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/2856-count-complete-subarrays-in-an-array) |
