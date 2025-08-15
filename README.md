@@ -23,6 +23,7 @@
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
@@ -187,6 +188,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kthesword/Competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -201,6 +203,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kthesword/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [2509-minimize-xor](https://github.com/Kthesword/Competitive_programming/tree/master/2509-minimize-xor) |
@@ -248,6 +251,7 @@
 | [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kthesword/Competitive_programming/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
 ## Interactive
@@ -317,6 +321,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kthesword/Competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kthesword/Competitive_programming/tree/master/2262-solving-questions-with-brainpower) |
