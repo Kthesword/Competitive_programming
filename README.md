@@ -47,6 +47,7 @@
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kthesword/Competitive_programming/tree/master/2262-solving-questions-with-brainpower) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/Kthesword/Competitive_programming/tree/master/2846-robot-collisions) |
@@ -253,6 +254,7 @@
 | [0278-first-bad-version](https://github.com/Kthesword/Competitive_programming/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
 ## Interactive
 |  |
@@ -300,6 +302,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -379,6 +382,7 @@
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Kthesword/Competitive_programming/tree/master/2413-smallest-number-in-infinite-set) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -387,4 +391,16 @@
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Merge Sort
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
