@@ -131,6 +131,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Kthesword/Competitive_programming/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kthesword/Competitive_programming/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Kthesword/Competitive_programming/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kthesword/Competitive_programming/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
