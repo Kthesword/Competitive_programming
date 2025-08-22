@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Kthesword/Competitive_programming/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Kthesword/Competitive_programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/Kthesword/Competitive_programming/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kthesword/Competitive_programming/tree/master/0168-excel-sheet-column-title) |
@@ -132,6 +133,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kthesword/Competitive_programming/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kthesword/Competitive_programming/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
