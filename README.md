@@ -278,6 +278,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +294,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -404,6 +406,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
