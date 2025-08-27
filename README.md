@@ -28,6 +28,7 @@
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
+| [0735-asteroid-collision](https://github.com/Kthesword/Competitive_programming/tree/master/0735-asteroid-collision) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
+| [0735-asteroid-collision](https://github.com/Kthesword/Competitive_programming/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
@@ -231,6 +233,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kthesword/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
+| [0735-asteroid-collision](https://github.com/Kthesword/Competitive_programming/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
 | [2846-robot-collisions](https://github.com/Kthesword/Competitive_programming/tree/master/2846-robot-collisions) |
 ## Backtracking
