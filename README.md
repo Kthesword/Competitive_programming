@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kthesword/Competitive_programming/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kthesword/Competitive_programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/Kthesword/Competitive_programming/tree/master/0048-rotate-image) |
@@ -266,6 +267,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kthesword/Competitive_programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Kthesword/Competitive_programming/tree/master/0278-first-bad-version) |
