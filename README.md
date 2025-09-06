@@ -25,6 +25,7 @@
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
 | [0260-single-number-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
@@ -180,6 +181,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1677-matrix-diagonal-sum](https://github.com/Kthesword/Competitive_programming/tree/master/1677-matrix-diagonal-sum) |
@@ -296,6 +298,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kthesword/Competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -310,6 +313,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1876-map-of-highest-peak](https://github.com/Kthesword/Competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -351,6 +355,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kthesword/Competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
@@ -386,6 +391,7 @@
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1916-find-center-of-star-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -444,10 +450,12 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Enumeration
 |  |
