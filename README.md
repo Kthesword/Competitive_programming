@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kthesword/Competitive_programming/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kthesword/Competitive_programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kthesword/Competitive_programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kthesword/Competitive_programming/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0039-combination-sum) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Kthesword/Competitive_programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kthesword/Competitive_programming/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kthesword/Competitive_programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
