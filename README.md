@@ -88,6 +88,7 @@
 | [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/Kthesword/Competitive_programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Kthesword/Competitive_programming/tree/master/2715-k-items-with-the-maximum-sum) |
+| [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kthesword/Competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
@@ -127,6 +128,7 @@
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Kthesword/Competitive_programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
+| [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -470,4 +473,8 @@
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Kthesword/Competitive_programming/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Kthesword/Competitive_programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
