@@ -125,6 +125,7 @@
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1080-camelcase-matching](https://github.com/Kthesword/Competitive_programming/tree/master/1080-camelcase-matching) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Kthesword/Competitive_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Kthesword/Competitive_programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
@@ -178,6 +179,7 @@
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Kthesword/Competitive_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
