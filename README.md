@@ -45,6 +45,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Kthesword/Competitive_programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kthesword/Competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1677-matrix-diagonal-sum](https://github.com/Kthesword/Competitive_programming/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -161,6 +162,7 @@
 ## Queue
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -360,6 +362,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Kthesword/Competitive_programming/tree/master/1014-k-closest-points-to-origin) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [1962-single-threaded-cpu](https://github.com/Kthesword/Competitive_programming/tree/master/1962-single-threaded-cpu) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Kthesword/Competitive_programming/tree/master/2413-smallest-number-in-infinite-set) |
@@ -389,6 +392,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Kthesword/Competitive_programming/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -437,6 +441,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1772-create-sorted-array-through-instructions](https://github.com/Kthesword/Competitive_programming/tree/master/1772-create-sorted-array-through-instructions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Kthesword/Competitive_programming/tree/master/2413-smallest-number-in-infinite-set) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
@@ -485,4 +490,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
