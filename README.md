@@ -321,6 +321,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -335,6 +336,7 @@
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1876-map-of-highest-peak](https://github.com/Kthesword/Competitive_programming/tree/master/1876-map-of-highest-peak) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Union Find
@@ -416,6 +418,7 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1916-find-center-of-star-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
@@ -475,6 +478,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
