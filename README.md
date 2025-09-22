@@ -132,6 +132,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Kthesword/Competitive_programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kthesword/Competitive_programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
 | [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
 ## String Matching
@@ -398,6 +399,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kthesword/Competitive_programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Kthesword/Competitive_programming/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
