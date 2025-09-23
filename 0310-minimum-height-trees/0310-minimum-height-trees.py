@@ -3,26 +3,24 @@ class Solution:
         if n == 1:
             return [0]
 
-        adj = defaultdict(list)
-        for n1, n2 in edges:
-            adj[n1].append(n2)
-            adj[n2].append(n1)
+        # Create an adjacency list representation of the tree
+        adj_list = defaultdict(set)
+        for u, v in edges:
+            adj_list[u].add(v)
+            adj_list[v].add(u)
 
-        leaves = deque()
-        edge_cnt = {}
-        for src, neibors in adj.items():
-            if len(neibors) == 1:
-                leaves.append(src)
-            edge_cnt[src] = len(neibors)
+        # Initialize leaves set with nodes having degree 1
+        leaves = deque([i for i in range(n) if len(adj_list[i]) == 1])
 
-        while leaves:
-            if n <= 2:
-                return list(leaves)
+        # Repeatedly remove leaves until 1 or 2 nodes left
+        while n > 2:
+            n -= len(leaves)
+            new_leaves = deque()
+            for leaf in leaves:
+                neighbor = adj_list[leaf].pop()  # Remove leaf
+                adj_list[neighbor].remove(leaf)  # Remove back reference
+                if len(adj_list[neighbor]) == 1:  # New leaf found
+                    new_leaves.append(neighbor)
+            leaves = new_leaves
 
-            for i in range(len(leaves)):
-                node = leaves.popleft()
-                n -= 1
-                for nei in adj[node]:
-                    edge_cnt[nei] -= 1
-                    if edge_cnt[nei] == 1:
-                        leaves.append(nei)
+        return list(leaves)
