@@ -321,6 +321,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kthesword/Competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0310-minimum-height-trees](https://github.com/Kthesword/Competitive_programming/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
@@ -337,6 +338,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
+| [0310-minimum-height-trees](https://github.com/Kthesword/Competitive_programming/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -420,6 +422,7 @@
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Kthesword/Competitive_programming/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -481,6 +484,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Kthesword/Competitive_programming/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
