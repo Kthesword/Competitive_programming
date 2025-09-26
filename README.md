@@ -42,6 +42,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1080-camelcase-matching](https://github.com/Kthesword/Competitive_programming/tree/master/1080-camelcase-matching) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Kthesword/Competitive_programming/tree/master/1139-previous-permutation-with-one-swap) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Kthesword/Competitive_programming/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kthesword/Competitive_programming/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
@@ -242,6 +243,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Kthesword/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
+| [1139-previous-permutation-with-one-swap](https://github.com/Kthesword/Competitive_programming/tree/master/1139-previous-permutation-with-one-swap) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1762-furthest-building-you-can-reach](https://github.com/Kthesword/Competitive_programming/tree/master/1762-furthest-building-you-can-reach) |
 | [2509-minimize-xor](https://github.com/Kthesword/Competitive_programming/tree/master/2509-minimize-xor) |
