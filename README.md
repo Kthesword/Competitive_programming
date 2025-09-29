@@ -133,6 +133,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Kthesword/Competitive_programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kthesword/Competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Kthesword/Competitive_programming/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3195-separate-black-and-white-balls](https://github.com/Kthesword/Competitive_programming/tree/master/3195-separate-black-and-white-balls) |
 | [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
@@ -317,6 +318,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kthesword/Competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -328,6 +330,7 @@
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kthesword/Competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/Kthesword/Competitive_programming/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -336,6 +339,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kthesword/Competitive_programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kthesword/Competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
