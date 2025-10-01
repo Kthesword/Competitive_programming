@@ -128,6 +128,7 @@
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Kthesword/Competitive_programming/tree/master/1032-satisfiability-of-equality-equations) |
 | [1080-camelcase-matching](https://github.com/Kthesword/Competitive_programming/tree/master/1080-camelcase-matching) |
+| [1250-longest-common-subsequence](https://github.com/Kthesword/Competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kthesword/Competitive_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -394,6 +395,7 @@
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
+| [1250-longest-common-subsequence](https://github.com/Kthesword/Competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kthesword/Competitive_programming/tree/master/2262-solving-questions-with-brainpower) |
