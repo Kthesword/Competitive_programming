@@ -48,6 +48,7 @@
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Kthesword/Competitive_programming/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/Kthesword/Competitive_programming/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/Kthesword/Competitive_programming/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
@@ -190,6 +191,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kthesword/Competitive_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kthesword/Competitive_programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -429,6 +431,7 @@
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Graph
 |  |
