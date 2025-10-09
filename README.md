@@ -134,6 +134,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Kthesword/Competitive_programming/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1449-print-words-vertically](https://github.com/Kthesword/Competitive_programming/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Kthesword/Competitive_programming/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1508-longest-happy-prefix](https://github.com/Kthesword/Competitive_programming/tree/master/1508-longest-happy-prefix) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/Kthesword/Competitive_programming/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Kthesword/Competitive_programming/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/Kthesword/Competitive_programming/tree/master/1080-camelcase-matching) |
+| [1508-longest-happy-prefix](https://github.com/Kthesword/Competitive_programming/tree/master/1508-longest-happy-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,10 +424,12 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
+| [1508-longest-happy-prefix](https://github.com/Kthesword/Competitive_programming/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
+| [1508-longest-happy-prefix](https://github.com/Kthesword/Competitive_programming/tree/master/1508-longest-happy-prefix) |
 ## Counting
 |  |
 | ------- |
