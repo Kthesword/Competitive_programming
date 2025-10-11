@@ -79,6 +79,7 @@
 | [0048-rotate-image](https://github.com/Kthesword/Competitive_programming/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Kthesword/Competitive_programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Kthesword/Competitive_programming/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Kthesword/Competitive_programming/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Kthesword/Competitive_programming/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kthesword/Competitive_programming/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
@@ -396,6 +397,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kthesword/Competitive_programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kthesword/Competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -509,6 +511,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Kthesword/Competitive_programming/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Enumeration
