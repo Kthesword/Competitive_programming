@@ -62,6 +62,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2262-solving-questions-with-brainpower](https://github.com/Kthesword/Competitive_programming/tree/master/2262-solving-questions-with-brainpower) |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Kthesword/Competitive_programming/tree/master/2513-number-of-pairs-satisfying-inequality) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
@@ -92,6 +93,7 @@
 | [1642-water-bottles](https://github.com/Kthesword/Competitive_programming/tree/master/1642-water-bottles) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Kthesword/Competitive_programming/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Kthesword/Competitive_programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2621-find-xor-beauty-of-array) |
 | [2645-pass-the-pillow](https://github.com/Kthesword/Competitive_programming/tree/master/2645-pass-the-pillow) |
@@ -199,6 +201,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Kthesword/Competitive_programming/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Kthesword/Competitive_programming/tree/master/2413-smallest-number-in-infinite-set) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kthesword/Competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -439,6 +442,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Kthesword/Competitive_programming/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Kthesword/Competitive_programming/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Graph
 |  |
 | ------- |
