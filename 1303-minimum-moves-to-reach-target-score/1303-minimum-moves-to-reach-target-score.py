@@ -2,7 +2,6 @@ class Solution:
     def minMoves(self, target: int, maxDoubles: int) -> int:
         if not maxDoubles:
             return target - 1
-        
         moves = 0
         while target > 1:
             if not target % 2:
@@ -13,11 +12,12 @@ class Solution:
                 else:
                     break
             else:
+                if not maxDoubles:
+                    break
                 moves += 1
                 target -= 1
 
         moves += target - 1
-
         return moves
      
     
