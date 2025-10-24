@@ -130,6 +130,7 @@
 | [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0676-implement-magic-dictionary](https://github.com/Kthesword/Competitive_programming/tree/master/0676-implement-magic-dictionary) |
 | [0800-letter-case-permutation](https://github.com/Kthesword/Competitive_programming/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
@@ -192,6 +193,7 @@
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
+| [0676-implement-magic-dictionary](https://github.com/Kthesword/Competitive_programming/tree/master/0676-implement-magic-dictionary) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -342,6 +344,7 @@
 | [0310-minimum-height-trees](https://github.com/Kthesword/Competitive_programming/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/Kthesword/Competitive_programming/tree/master/0437-path-sum-iii) |
+| [0676-implement-magic-dictionary](https://github.com/Kthesword/Competitive_programming/tree/master/0676-implement-magic-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/Kthesword/Competitive_programming/tree/master/0999-regions-cut-by-slashes) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Kthesword/Competitive_programming/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -469,11 +472,13 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kthesword/Competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Kthesword/Competitive_programming/tree/master/0676-implement-magic-dictionary) |
 | [1080-camelcase-matching](https://github.com/Kthesword/Competitive_programming/tree/master/1080-camelcase-matching) |
 ## Design
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Kthesword/Competitive_programming/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Kthesword/Competitive_programming/tree/master/0676-implement-magic-dictionary) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Kthesword/Competitive_programming/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
