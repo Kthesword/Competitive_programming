@@ -132,6 +132,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0609-find-duplicate-file-in-system](https://github.com/Kthesword/Competitive_programming/tree/master/0609-find-duplicate-file-in-system) |
 | [0676-implement-magic-dictionary](https://github.com/Kthesword/Competitive_programming/tree/master/0676-implement-magic-dictionary) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kthesword/Competitive_programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0800-letter-case-permutation](https://github.com/Kthesword/Competitive_programming/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/Kthesword/Competitive_programming/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
@@ -415,6 +416,7 @@
 | [0338-counting-bits](https://github.com/Kthesword/Competitive_programming/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/Kthesword/Competitive_programming/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Kthesword/Competitive_programming/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Kthesword/Competitive_programming/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kthesword/Competitive_programming/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Kthesword/Competitive_programming/tree/master/1986-largest-color-value-in-a-directed-graph) |
