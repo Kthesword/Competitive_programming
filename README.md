@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kthesword/Competitive_programming/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/Kthesword/Competitive_programming/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Kthesword/Competitive_programming/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kthesword/Competitive_programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kthesword/Competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Kthesword/Competitive_programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Kthesword/Competitive_programming/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Kthesword/Competitive_programming/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kthesword/Competitive_programming/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -278,6 +280,7 @@
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Kthesword/Competitive_programming/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Kthesword/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Kthesword/Competitive_programming/tree/master/0735-asteroid-collision) |
@@ -409,6 +412,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kthesword/Competitive_programming/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Kthesword/Competitive_programming/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Kthesword/Competitive_programming/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kthesword/Competitive_programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/Kthesword/Competitive_programming/tree/master/0221-maximal-square) |
@@ -470,6 +474,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Kthesword/Competitive_programming/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Kthesword/Competitive_programming/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0402-remove-k-digits) |
 ## Trie
