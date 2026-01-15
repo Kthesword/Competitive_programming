@@ -70,6 +70,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/Kthesword/Competitive_programming/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Kthesword/Competitive_programming/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Kthesword/Competitive_programming/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Kthesword/Competitive_programming/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Kthesword/Competitive_programming/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -245,6 +246,7 @@
 | [1962-single-threaded-cpu](https://github.com/Kthesword/Competitive_programming/tree/master/1962-single-threaded-cpu) |
 | [2681-put-marbles-in-bags](https://github.com/Kthesword/Competitive_programming/tree/master/2681-put-marbles-in-bags) |
 | [2846-robot-collisions](https://github.com/Kthesword/Competitive_programming/tree/master/2846-robot-collisions) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Kthesword/Competitive_programming/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Prefix Sum
 |  |
 | ------- |
