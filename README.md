@@ -78,6 +78,7 @@
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Kthesword/Competitive_programming/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3454-separate-squares-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3454-separate-squares-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kthesword/Competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-zero-array-transformation-ii](https://github.com/Kthesword/Competitive_programming/tree/master/3643-zero-array-transformation-ii) |
 | [3651-transformed-array](https://github.com/Kthesword/Competitive_programming/tree/master/3651-transformed-array) |
@@ -109,6 +110,7 @@
 | [2645-pass-the-pillow](https://github.com/Kthesword/Competitive_programming/tree/master/2645-pass-the-pillow) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Kthesword/Competitive_programming/tree/master/2715-k-items-with-the-maximum-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/Kthesword/Competitive_programming/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kthesword/Competitive_programming/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kthesword/Competitive_programming/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
