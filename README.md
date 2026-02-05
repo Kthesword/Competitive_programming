@@ -94,6 +94,7 @@
 | [0089-gray-code](https://github.com/Kthesword/Competitive_programming/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kthesword/Competitive_programming/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Kthesword/Competitive_programming/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Kthesword/Competitive_programming/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/Kthesword/Competitive_programming/tree/master/0486-predict-the-winner) |
@@ -117,6 +118,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Kthesword/Competitive_programming/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Kthesword/Competitive_programming/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
@@ -526,6 +528,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Kthesword/Competitive_programming/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/Kthesword/Competitive_programming/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 ## Binary Indexed Tree
