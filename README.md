@@ -93,6 +93,7 @@
 | [0070-climbing-stairs](https://github.com/Kthesword/Competitive_programming/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Kthesword/Competitive_programming/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/Kthesword/Competitive_programming/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Kthesword/Competitive_programming/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kthesword/Competitive_programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kthesword/Competitive_programming/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
@@ -178,6 +179,7 @@
 | [0027-remove-element](https://github.com/Kthesword/Competitive_programming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Kthesword/Competitive_programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kthesword/Competitive_programming/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Kthesword/Competitive_programming/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Kthesword/Competitive_programming/tree/master/0344-reverse-string) |
 | [0658-find-k-closest-elements](https://github.com/Kthesword/Competitive_programming/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/Kthesword/Competitive_programming/tree/master/0874-backspace-string-compare) |
@@ -207,6 +209,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Kthesword/Competitive_programming/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Kthesword/Competitive_programming/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/Kthesword/Competitive_programming/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Kthesword/Competitive_programming/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Kthesword/Competitive_programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Kthesword/Competitive_programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kthesword/Competitive_programming/tree/master/0268-missing-number) |
